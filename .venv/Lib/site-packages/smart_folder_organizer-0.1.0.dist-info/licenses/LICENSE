@@ -1,0 +1,13 @@
+
+---
+
+# 8. Test it BEFORE publishing
+
+This is important.
+
+Don't immediately upload to TestPyPI.
+
+From the project root:
+
+```powershell
+python -m pip install --upgrade pip build twine

@@ -1,0 +1,2 @@
+[console_scripts]
+smart-organize = smart_folder_organizer.cli:main

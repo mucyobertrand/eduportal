@@ -1,0 +1,40 @@
+Metadata-Version: 2.4
+Name: smart-folder-organizer
+Version: 0.1.0
+Summary: A smart Python package for automatically organizing files into categorized folders
+Author-email: Bertrand <mucyobertrand07@gmail.com>
+License: MIT
+Project-URL: Homepage, https://github.com/mucyobertrand/smart-folder-organizer
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Dynamic: license-file
+
+# Smart Folder Organizer
+
+Smart Folder Organizer is a Python package that automatically organizes
+files into categorized folders based on their file extensions.
+
+## Features
+
+- Organizes images
+- Organizes PDF files
+- Organizes documents
+- Organizes spreadsheets
+- Organizes presentations
+- Organizes videos
+- Organizes audio files
+- Organizes archives
+- Organizes source code
+- Places unknown files in an Others folder
+- Prevents overwriting existing files
+- Supports dry-run mode
+
+## Installation
+
+```bash
+pip install smart-folder-organizer-bertrand
